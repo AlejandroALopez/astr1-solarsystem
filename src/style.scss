@@ -1,8 +1,11 @@
 body, html {
-    font-family: "Roboto", sans-serif;
     background-image: url('img/space.jpeg');    
     height: 100%;
     margin: 0;
+  }
+
+  div {
+    font-family:'Lucida Grande';
   }
 
   .active {
